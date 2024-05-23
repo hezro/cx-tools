@@ -1,0 +1,7 @@
+{
+  "group_id": "xxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "profile_name": "Test Dev GH Profile",
+  "gh_api_url": "https://api.github.com/",
+  "gh_token": "ghg_1234567890",
+  "gh_org_list": "github_org_list.csv"
+}
